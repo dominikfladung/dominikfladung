@@ -2,7 +2,7 @@
 
 #### Languages
 
-<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/js.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/js.svg" alt="Vue" style="vertical-align:top margin:6px 4px;">
 
 <img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/php.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
@@ -16,7 +16,9 @@
 
 <img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/frameworks/vue.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
+#### Visitor Count
 
+![Visitor Count](https://profile-counter.glitch.me/dominikfladung/count.svg)
 
 <!--
 **dominikfladung/dominikfladung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
