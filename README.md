@@ -2,32 +2,20 @@
 
 #### Languages
 
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/languages/js.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/js.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/languages/php.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/php.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/languages/python.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/python.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
-
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/languages/swift.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/languages/swift.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
 
 #### Frameworks
 
-<a href="#">
-    <img src="./ColoredBadges/svg/dev/frameworks/vue.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
-</a> 
+<img src="https://raw.githubusercontent.com/dominikfladung/dominikfladung/master/ColoredBadges/svg/dev/frameworks/vue.svg" alt="Vue" style="vertical-align:top margin:6px 4px">
+
 
 
 <!--
