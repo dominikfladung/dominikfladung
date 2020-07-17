@@ -36,6 +36,11 @@
 [spipu/html2pdf](https://github.com/spipu/html2pdf)
 > OFFICIAL PROJECT | HTML to PDF converter written in PHP - spipu/html2pdf
 
+### Kotlin
+
+[cashapp/sqldelight](https://github.com/cashapp/sqldelight)
+> SQLDelight - Generates typesafe Kotlin APIs from SQL - cashapp/sqldelight
+
 ### Swift
 
 [Nonchalant/AppIcon](https://github.com/Nonchalant/AppIcon)
