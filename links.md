@@ -19,17 +19,19 @@
 
 #### Vue
 
-[Vue Mastery](https://www.vuemastery.com)
-> Vue Mastery is the ultimate learning resource for Vue.js developers. We release weekly video tutorials and articles as well as the proud producers of the official Vue.js News. You can consume it in newsletter and podcast format at news.vuejs.org.
-
-[Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
-> For hands-on training with guaranteed results, check out my new course: https://www.vuetraining.net/ In just 8 short weeks you'll be writing VueJS apps with ...
-
 [wearebraid/vue-formulate](https://github.com/wearebraid/vue-formulate)
 > Vue Formulate is the easiest way to build forms with Vue. Please read the comprehensive documentation for live code examples and guidance on using Vue Formulate in your own projects.
 
 [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts)
 > Vue.js wrapper for ApexCharts to build interactive visualizations in vue. A modern JavaScript charting library to build interactive charts and visualizations with simple API.
+
+##### Learning
+
+[Vue Mastery](https://www.vuemastery.com)
+> Vue Mastery is the ultimate learning resource for Vue.js developers. We release weekly video tutorials and articles as well as the proud producers of the official Vue.js News. You can consume it in newsletter and podcast format at news.vuejs.org.
+
+[Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+> For hands-on training with guaranteed results, check out my new course: https://www.vuetraining.net/ In just 8 short weeks you'll be writing VueJS apps with ...
 
 ### PHP
 
@@ -90,3 +92,8 @@
 
 [Hackernoon](https://hackernoon.com)
 > Hacker Noon is built for technologists to read, write, and publish. We are an open and international community of 12,000+ contributing writers publishing stories and expertise for 4,000,000+ curious and insightful monthly readers. 
+
+### Stuff
+
+[Changelog Nightly](https://changelog.com/nightly)
+> Get the hottest new repos trending on GitHub in your inbox every night. No fluff, just repos!
