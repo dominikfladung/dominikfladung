@@ -25,6 +25,9 @@
 [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts)
 > Vue.js wrapper for ApexCharts to build interactive visualizations in vue. A modern JavaScript charting library to build interactive charts and visualizations with simple API.
 
+[deulos/vue-flux](https://github.com/deulos/vue-flux)
+> Image slider which comes with 20 cool transitions. Contribute to deulos/vue-flux development by creating an account on GitHub.
+
 ##### Learning
 
 [Vue Mastery](https://www.vuemastery.com)
