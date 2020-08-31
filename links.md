@@ -41,6 +41,10 @@
 [spipu/html2pdf](https://github.com/spipu/html2pdf)
 > OFFICIAL PROJECT | HTML to PDF converter written in PHP - spipu/html2pdf
 
+#### Laravel
+[list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
+> Laravel has awesome set of artisan commands, probably the most often used are make:xxx – like make:model or make:migration etc. But do you know all 21 of them? And, moreover, do you know their parameters which may help to make the code even quicker?
+
 ### Kotlin
 
 [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
